@@ -25,7 +25,7 @@ I am available for freelance projects and new opportunities, contact me to talk 
 <a href="mailto:me@rastrian.dev">
     <img align="left" alt="Email @ me@rastrian.dev" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://discordapp.com/users/214508470588801024">
+<a href="#" onClick="alert('Discord Username: Rastrian#0047')">
     <img align="left" alt="Discord @ Rastrian#0047" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="https://twitch.tv/Rastrian">

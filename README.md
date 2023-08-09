@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/rastrian/">
       <img align="left" alt="Linkedin @ rastrian" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.com/users/214508470588801024">
+  <a href="https://rastrian.dev/api/discord-reroute/?user=rastrian">
       <img align="left" alt="Discord @ Rastrian#0047" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </details>

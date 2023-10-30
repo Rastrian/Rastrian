@@ -1,7 +1,8 @@
-  <p align="center"> 
-  <a href="https://rastrian.dev"><img src="https://i.imgur.com/rZGirqn.png?w=640" width="20%"></a>
-  <br>
-  <h3 align="center">Hi, I'm <s>Rastrian</s> Luis Vaz 👋</h3>
+<p align="center">
+  <a href="https://rastrian.dev" style="text-decoration: none; color: inherit;">
+    <img src="https://i.imgur.com/rZGirqn.png?w=640" width="20%" alt="Rastrian's Logo" /><br>
+    <b>Hi, I'm <s>Rastrian</s> Luis Vaz 👋</b>
+  </a>
 </p>
 
 <details>
